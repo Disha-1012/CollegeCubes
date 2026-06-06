@@ -34,16 +34,40 @@ export default async function CollegeDetails({
       </div>
     );
 
-      const placement =
+  const extractNumber = (val: any) => {
+  if (val === null || val === undefined) return null;
+
+  // convert "8 LPA", "₹800000", "8,00,000"
+  const cleaned = String(val).replace(/[^0-9.]/g, "");
+  const num = Number(cleaned);
+
+  return Number.isFinite(num) ? num : null;
+};
+
+  const toNumber = (val: any): number | null => {
+    const n = Number(val);
+    return Number.isFinite(n) ? n : null;
+  };
+
+  const formatINR = (val: any) => {
+    const n = toNumber(val);
+    return n !== null ? `₹${n.toLocaleString("en-IN")}` : "—";
+  };
+
+  const placement =
   typeof college.placement === "object" &&
-  college.placement !== null &&
-  "average" in college.placement
-    ? Number(college.placement.average)
-    : Number(college.placement ?? 0);
+  college.placement !== null
+    ? extractNumber((college.placement as any).average)
+    : extractNumber(college.placement);
 
-  const rating = college.rating || 0;
-  const ratingPercent = Math.min((Number(rating) / 10) * 100, 100);
+  const rating = toNumber(college.rating);
 
+  const ratingPercent =
+    rating !== null ? Math.min((rating / 10) * 100, 100) : 0;
+const displayPlacement =
+  placement !== null
+    ? `₹${placement.toLocaleString("en-IN")}`
+    : "Not Available";
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-slate-950">
 
@@ -159,11 +183,12 @@ export default async function CollegeDetails({
           </div>
 
           {/* Quick stat pills */}
+          {/* Quick stat pills */}
           <div className="flex flex-wrap gap-3 mt-8">
             {[
               {
                 label: "Annual Fees",
-                value: `₹${Number(college.fees).toLocaleString("en-IN")}`,
+                value: formatINR(college.fees),
                 icon: (
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -172,7 +197,7 @@ export default async function CollegeDetails({
               },
               {
                 label: "Avg. Package",
-                value: `₹${placement}`,
+                value: displayPlacement,   // ✅ FIXED HERE
                 icon: (
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" />
@@ -181,7 +206,7 @@ export default async function CollegeDetails({
               },
               {
                 label: "Best Suited For",
-                value: college.best_suit_for,
+                value: college.best_suit_for || "—",
                 icon: (
                   <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                     <path strokeLinecap="round" strokeLinejoin="round" d="M9 12l2 2 4-4M7.835 4.697a3.42 3.42 0 001.946-.806 3.42 3.42 0 014.438 0 3.42 3.42 0 001.946.806 3.42 3.42 0 013.138 3.138 3.42 3.42 0 00.806 1.946 3.42 3.42 0 010 4.438 3.42 3.42 0 00-.806 1.946 3.42 3.42 0 01-3.138 3.138 3.42 3.42 0 00-1.946.806 3.42 3.42 0 01-4.438 0 3.42 3.42 0 00-1.946-.806 3.42 3.42 0 01-3.138-3.138 3.42 3.42 0 00-.806-1.946 3.42 3.42 0 010-4.438 3.42 3.42 0 00.806-1.946 3.42 3.42 0 013.138-3.138z" />
@@ -193,10 +218,17 @@ export default async function CollegeDetails({
                 key={stat.label}
                 className="inline-flex items-center gap-2.5 bg-gray-50 dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-xl px-4 py-2.5"
               >
-                <span className="text-blue-600 dark:text-blue-400">{stat.icon}</span>
-                <div>
-                  <p className="text-[10px] text-gray-400 uppercase tracking-wider font-semibold leading-none mb-0.5">{stat.label}</p>
-                  <p className="text-sm font-bold text-gray-800 dark:text-gray-100">{stat.value}</p>
+                <span className="text-blue-600 dark:text-blue-400">
+                  {stat.icon}
+                </span>
+
+                <div className="text-sm">
+                  <span className="text-gray-600 dark:text-gray-300">
+                    {stat.label}:
+                  </span>{" "}
+                  <b className="text-gray-900 dark:text-white">
+                    {stat.value}
+                  </b>
                 </div>
               </div>
             ))}
@@ -273,7 +305,7 @@ export default async function CollegeDetails({
             <div>
               <p className="text-xs text-gray-500 uppercase tracking-wider font-semibold mb-1">Average Package</p>
               <p className="text-3xl font-extrabold text-green-700 dark:text-green-400">
-                ₹{placement}
+                ₹{displayPlacement}
               </p>
               <p className="text-xs text-gray-400 mt-1">Per annum (CTC)</p>
             </div>

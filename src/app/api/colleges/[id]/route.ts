@@ -7,13 +7,6 @@ export async function GET(
 ) {
   const { id } = params;
 
-  if (!id) {
-    return NextResponse.json(
-      { error: "Missing college id" },
-      { status: 400 }
-    );
-  }
-
   const college = colleges.find(
     (item: any) => String(item.id) === String(id)
   );

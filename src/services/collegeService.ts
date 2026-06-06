@@ -1,7 +1,6 @@
 import colleges from "@/data/final-colleges.json";
 import { College } from "@/types/college";
 
-// ✅ Get all colleges
 export async function getColleges({
   pageParam = 1,
   search = "",
@@ -45,29 +44,23 @@ export async function getColleges({
   };
 }
 
-// ✅ Get locations
 export async function getLocations() {
   const locations = colleges.map((c: any) => c.location);
   return [...new Set(locations)] as string[];
 }
 
-// ✅ Get single college (FIXED — NO FETCH)
-export async function getCollegeById(id: string) {
-  if (!id) {
-    console.error("College ID missing");
-    return null;
-  }
+// ✅ FIXED RETURN TYPE
+export async function getCollegeById(id: string): Promise<College | null> {
+  if (!id) return null;
 
   const college = colleges.find(
     (item: any) => String(item.id) === String(id)
   );
 
-  if (!college) {
-    return null;
-  }
+  if (!college) return null;
 
   return {
     ...college,
-    reviews: college.reviews || [],
-  };
+    reviews: college.reviews || [], // ✅ now valid
+  } as College;
 }

@@ -7,9 +7,9 @@ export const dynamic = "force-dynamic";
 export default async function CollegeDetails({
   params,
 }: {
-  params: Promise<{ id: string }>;
+  params: { id: string } | Promise<{ id: string }>;
 }) {
-  const { id } = await params; // ✅ FIX IS HERE
+  const { id } = await params;
   const college = await getCollegeById(id);
 
   if (!college)
@@ -33,10 +33,13 @@ export default async function CollegeDetails({
       </div>
     );
 
-  const placement =
-    typeof college.placement === "object" && college.placement !== null
-      ? college.placement.average
-      : college.placement;
+      const placement =
+    typeof college.placement === "object" &&
+    college.placement !== null &&
+    "average" in college.placement
+      ? Number(college.placement.average)
+      : Number(college.placement ?? 0);
+
 
   const rating = college.rating || 0;
   const ratingPercent = Math.min((Number(rating) / 10) * 100, 100);

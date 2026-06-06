@@ -72,22 +72,18 @@ export async function getLocations() {
     ] as string[];
 }
 export async function getCollegeById(
-    id: string
-) {
-    const baseUrl =
-        process.env.NEXT_PUBLIC_BASE_URL
-        ||
-        "http://localhost:3000";
+
+    id:string
+){
     const response =
         await fetch(
-            `${baseUrl}/api/colleges/${id}`,
+            `/api/colleges/${id}`,
             {
-                cache: "no-store"
+                cache:"no-store"
             }
         );
-    if (!response.ok) {
+    if(!response.ok)
         return null;
-    }
     const college =
         await response.json();
     return {

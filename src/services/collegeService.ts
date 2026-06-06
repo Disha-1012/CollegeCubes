@@ -1,98 +1,73 @@
-import {
-    College
-}
-    from "@/types/college";
-    
-export async function getColleges(
-    {
-        pageParam = 1,
-        search = "",
-        location = "",
-        rating = ""
-    }:
-        {
-            pageParam?: number;
-            search?: string;
-            location?: string;
-            rating?: string;
-        }
-) {
-    const params =
-        new URLSearchParams();
-    params.append(
-        "page",
-        String(pageParam)
-    );
-    if (search)
-        params.append(
-            "search",
-            search
-        );
-    if (location)
-        params.append(
-            "location",
-            location
-        );
-    if (rating)
-        params.append(
-            "rating",
-            rating
-        );
-    const response =
-        await fetch(
-            `/api/colleges?${params}`,
-            {
-                cache: "no-store"
-            }
-        );
-    if (!response.ok) {
-        throw new Error(
-            "Failed loading colleges"
-        );
-    }
-    return response.json();
-}
-export async function getLocations() {
+import colleges from "@/data/final-colleges.json";
+import { College } from "@/types/college";
 
-    const response =
-        await fetch(
-            "/api/colleges?page=1"
-        );
-    const json =
-        await response.json();
-    const colleges =
-        json.data || json;
-    const locations =
-        colleges.map(
-            (college: College) =>
-                college.location
-        );
-    return [
-        ...new Set(locations)
-    ] as string[];
+// ✅ Get all colleges
+export async function getColleges({
+  pageParam = 1,
+  search = "",
+  location = "",
+  rating = "",
+}: {
+  pageParam?: number;
+  search?: string;
+  location?: string;
+  rating?: string;
+}) {
+  let result: any[] = colleges;
+
+  if (search) {
+    result = result.filter((college: any) =>
+      college.college_name.toLowerCase().includes(search.toLowerCase())
+    );
+  }
+
+  if (location) {
+    result = result.filter((college: any) =>
+      college.location.toLowerCase().includes(location.toLowerCase())
+    );
+  }
+
+  if (rating) {
+    const r = Number(rating);
+    result = result.filter((college: any) =>
+      Number(college.rating || 0) >= r
+    );
+  }
+
+  const limit = 20;
+  const start = (pageParam - 1) * limit;
+
+  return {
+    data: result.slice(start, start + limit),
+    totalResults: result.length,
+    currentPage: pageParam,
+    totalPages: Math.ceil(result.length / limit),
+  };
 }
-export async function getCollegeById(
-    id:string
-){
-    const response =
-        await fetch(
-            `/api/colleges/${id}`,
-            {
-                cache:"no-store"
-            }
-        );
-    if(!response.ok){
-        console.log(
-            "College API failed",
-            response.status
-        );
-        return null;
-    }
-    const college =
-        await response.json();
-    return {
-        ...college,
-        reviews:
-            college.reviews || []
-    };
+
+// ✅ Get locations
+export async function getLocations() {
+  const locations = colleges.map((c: any) => c.location);
+  return [...new Set(locations)] as string[];
+}
+
+// ✅ Get single college (FIXED — NO FETCH)
+export async function getCollegeById(id: string) {
+  if (!id) {
+    console.error("College ID missing");
+    return null;
+  }
+
+  const college = colleges.find(
+    (item: any) => String(item.id) === String(id)
+  );
+
+  if (!college) {
+    return null;
+  }
+
+  return {
+    ...college,
+    reviews: college.reviews || [],
+  };
 }

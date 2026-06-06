@@ -1,6 +1,7 @@
 import { getCollegeById } from "@/services/collegeService";
 import Card from "@/components/ui/Card";
 import SaveButton from "@/components/college/SaveButton";
+import type { Review } from "@/types/college";
 
 export const dynamic = "force-dynamic";
 
@@ -34,12 +35,11 @@ export default async function CollegeDetails({
     );
 
       const placement =
-    typeof college.placement === "object" &&
-    college.placement !== null &&
-    "average" in college.placement
-      ? Number(college.placement.average)
-      : Number(college.placement ?? 0);
-
+  typeof college.placement === "object" &&
+  college.placement !== null &&
+  "average" in college.placement
+    ? Number(college.placement.average)
+    : Number(college.placement ?? 0);
 
   const rating = college.rating || 0;
   const ratingPercent = Math.min((Number(rating) / 10) * 100, 100);
@@ -333,7 +333,7 @@ export default async function CollegeDetails({
 
           {college.reviews && college.reviews.length > 0 ? (
             <div className="space-y-4">
-              {college.reviews.map((review: any) => {
+              {college.reviews.map((review: Review) => {
                 const reviewRating = Number(review.rating) || 0;
                 const stars = Math.round(reviewRating / 2);
                 return (

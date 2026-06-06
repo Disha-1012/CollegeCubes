@@ -53,14 +53,14 @@ export async function getLocations() {
 export async function getCollegeById(id: string): Promise<College | null> {
   if (!id) return null;
 
-  const college = colleges.find(
-    (item: any) => String(item.id) === String(id)
+  const college = (colleges as College[]).find(
+    (item) => String(item.id) === String(id)
   );
 
   if (!college) return null;
 
   return {
     ...college,
-    reviews: college.reviews || [], // ✅ now valid
-  } as College;
+    reviews: college.reviews ?? [],
+  };
 }

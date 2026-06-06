@@ -24,5 +24,5 @@ export interface College {
   rating?: number;
   review_count?: number;
 
-  reviews?: Review[]; // ✅ FIX: ADD THIS
+   reviews?: Review[]; // ✅ FIX: ADD THIS
 }

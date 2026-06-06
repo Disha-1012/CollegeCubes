@@ -1,22 +1,28 @@
 import colleges from "@/data/final-colleges.json";
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
+import { getCollegeById } from "@/services/collegeService";
 
 export async function GET(
-  request: Request,
-  { params }: { params: { id: string } }
+  request: NextRequest,
+  context: { params: Promise<{ id: string }> }
 ) {
-  const { id } = params;
+  const { id } = await context.params;
 
-  const college = colleges.find(
-    (item: any) => String(item.id) === String(id)
-  );
+  try {
+    const college = await getCollegeById(id);
 
-  if (!college) {
+    if (!college) {
+      return NextResponse.json(
+        { error: "College not found" },
+        { status: 404 }
+      );
+    }
+
+    return NextResponse.json(college);
+  } catch (error) {
     return NextResponse.json(
-      { error: "College not found" },
-      { status: 404 }
+      { error: "Internal server error" },
+      { status: 500 }
     );
   }
-
-  return NextResponse.json(college);
 }

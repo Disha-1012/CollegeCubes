@@ -8,7 +8,7 @@ export const dynamic = "force-dynamic";
 export default async function CollegeDetails({
   params,
 }: {
-  params: { id: string } | Promise<{ id: string }>;
+  params: { id: string };
 }) {
   const { id } = await params;
   const college = await getCollegeById(id);

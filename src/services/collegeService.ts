@@ -72,21 +72,18 @@ export async function getLocations() {
     ] as string[];
 }
 export async function getCollegeById(
-    id: string
-) {
-    const baseUrl =
-        process.env.NEXT_PUBLIC_BASE_URL ||
-        "http://localhost:3000";
+    id:string
+){
     const response =
         await fetch(
-            `${baseUrl}/api/colleges/${id}`,
+            `/api/colleges/${id}`,
             {
-                cache: "no-store"
+                cache:"no-store"
             }
         );
-    if (!response.ok) {
-        console.error(
-            "College fetch failed:",
+    if(!response.ok){
+        console.log(
+            "College API failed",
             response.status
         );
         return null;

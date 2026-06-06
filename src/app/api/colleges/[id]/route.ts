@@ -1,44 +1,26 @@
-import {
-    NextResponse
-}
-    from "next/server";
-import colleges
-    from "@/data/final-colleges.json";
+import colleges from "@/data/final-colleges.json";
+import { NextResponse } from "next/server";
 export async function GET(
-
-    req: Request,
+    request: Request,
     {
-        params
-    }:
-        {
-            params: Promise<{
-                id: string
-            }>
-        }
-) {
-    // unwrap params
-    
-    const {
-        id
+        params,
+    }: {
+        params: Promise<{ id: string }>
     }
-        =
-        await params;
+) {
+    const { id } = await params;
     const college =
-        (colleges as any[])
-            .find(
-                (item) =>
-                    String(item.id)
-                    ===
-                    String(id)
-            );
-    if (!college) {
+        colleges.find(
+            (item:any) =>
+                String(item.id) === String(id)
+        );
+    if(!college){
         return NextResponse.json(
             {
-                message:
-                    "College Not Found"
+                error:"College not found"
             },
             {
-                status: 404
+                status:404
             }
         );
     }

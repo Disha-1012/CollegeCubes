@@ -2,12 +2,17 @@ import { getCollegeById } from "@/services/collegeService";
 import Card from "@/components/ui/Card";
 import SaveButton from "@/components/college/SaveButton";
 
+export const dynamic = "force-dynamic";
+
 export default async function CollegeDetails({
   params,
 }: {
-  params: Promise<{ id: string }>;
+  params: {
+    id: string;
+  };
 }) {
-  const { id } = await params;
+  const id =
+    params.id;
   const college = await getCollegeById(id);
 
   if (!college)

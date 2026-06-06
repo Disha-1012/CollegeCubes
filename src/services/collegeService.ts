@@ -72,18 +72,25 @@ export async function getLocations() {
     ] as string[];
 }
 export async function getCollegeById(
-
-    id:string
-){
+    id: string
+) {
+    const baseUrl =
+        process.env.NEXT_PUBLIC_BASE_URL ||
+        "http://localhost:3000";
     const response =
         await fetch(
-            `/api/colleges/${id}`,
+            `${baseUrl}/api/colleges/${id}`,
             {
-                cache:"no-store"
+                cache: "no-store"
             }
         );
-    if(!response.ok)
+    if (!response.ok) {
+        console.error(
+            "College fetch failed:",
+            response.status
+        );
         return null;
+    }
     const college =
         await response.json();
     return {

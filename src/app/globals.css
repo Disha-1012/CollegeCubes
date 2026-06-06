@@ -1,26 +1,118 @@
 @import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@custom-variant dark (&:where(.dark, .dark *));
+html {
+  scroll-behavior: smooth;
+  transition:
+    background-color .3s ease,
+    color .3s ease;
 }
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+body {
+  @apply bg-gray-50 text-gray-900;
+  background:
+    linear-gradient(135deg,
+      #f8fafc,
+      #eef2ff);
+  color: #111827;
+  transition:
+    background-color .3s ease,
+    color .3s ease;
 }
+.dark body {
+  background:
+    linear-gradient(135deg,
+      #020617,
+      #0f172a);
+  color: #f8fafc;
+}
+/* Animations */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.card-hover {
+  transition:
+    transform .3s ease,
+    box-shadow .3s ease;
+}
+.card-hover:hover {
+  transform:
+    translateY(-8px);
+  box-shadow:
+    0 20px 40px rgba(0, 0, 0, .25);
+}
+.fade-in {
+  animation:
+    fade .6s ease-in-out;
+}
+@keyframes fade {
+  from {
+    opacity: 0;
+    transform:
+      translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform:
+      translateY(0);
   }
 }
+.float {
+  animation:
+    float 4s ease-in-out infinite;
+}
+@keyframes float {
+  0%,
+  100% {
+    transform:
+      translateY(0);
+  }
+  50% {
+    transform:
+      translateY(-10px);
+  }
+}
+.btn-hover {
+  transition:
+    transform .25s ease,
+    box-shadow .25s ease;
+}
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+.btn-hover:hover {
+  transform:
+    scale(1.05);
+  box-shadow:
+    0 10px 25px rgba(0, 0, 0, .2);
+}
+.glass {
+  background:
+    rgba(255, 255, 255, .7);
+  backdrop-filter:
+    blur(12px);
+  border:
+    1px solid rgba(255, 255, 255, .4);
+}
+.dark .glass {
+  background:
+    rgba(15, 23, 42, .65);
+  border:
+    1px solid rgba(255, 255, 255, .1);
+}
+.animate-fade {
+  animation:
+    slideDown .3s ease;
+}
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform:
+      translateY(-15px);
+  }
+  to {
+    opacity: 1;
+    transform:
+      translateY(0);
+  }
+}
+* {
+  transition:
+    background-color .25s ease,
+    border-color .25s ease,
+    color .25s ease;
 }

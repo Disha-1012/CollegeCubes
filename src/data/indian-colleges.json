@@ -1,0 +1,6182 @@
+[
+  {
+    "id": "1",
+    "college_name": "Post Graduate Institute of Medical Education & Research - [PGIMER]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "3030",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "2",
+    "college_name": "Indian School of Business - [ISB]",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "4542480",
+    "placement": "66,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "3",
+    "college_name": "Government Medical College and Hospital - [GMCH]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MBBS",
+    "fees": "25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "4",
+    "college_name": "Christian Medical College - [CMC]",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 33,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "5",
+    "college_name": "IIT Ropar - Indian Institute of Technology - [IITR]",
+    "location": "Ropar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,49,460",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "6",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Bathinda, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,628",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "7",
+    "college_name": "Punjab Engineering College University of Technology - [PEC]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,07,000",
+    "placement": "₹ 52,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "8",
+    "college_name": "Panjab University - [PU]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BA",
+    "fees": "₹ 20,885",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "9",
+    "college_name": "Dr BR Ambedkar National Institute of Technology - [NIT]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,64,000",
+    "placement": "₹ 52,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "10",
+    "college_name": "IIM Amritsar - Indian Institute of Management",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 9,65,000",
+    "placement": "₹ 28,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "11",
+    "college_name": "Thapar Institute of Engineering and Technology - [Thapar University]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 5,08,000",
+    "placement": "₹ 1,23,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "12",
+    "college_name": "Government Medical College / Rajindra Hospital-[GMCP]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,74,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "13",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Gurdaspur, Punjab",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,09,600",
+    "placement": "₹ 3,65,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "14",
+    "college_name": "Kanya Mahavidyalaya - [KMV]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 20,510",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "15",
+    "college_name": "LM Thapar School of Management, Derabassi",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 6,70,000",
+    "placement": "₹ 24,81,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "16",
+    "college_name": "Lovely Professional University - [LPU]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,49,000",
+    "placement": "₹ 3,00,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "17",
+    "college_name": "Government Medical College - [GMC]",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 9,98,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "18",
+    "college_name": "Sri Guru Ram Das Institute of Medical Sciences & Research - [SGRDIMSR]",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 10,42,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "19",
+    "college_name": "University Institute of Engineering and Technology -[UIET]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,34,860",
+    "placement": "₹ 25,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "20",
+    "college_name": "Sant Longowal Institute of Engineering and Technology - [SLIET]",
+    "location": "Sangrur, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 88,000",
+    "placement": "₹ 18,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "21",
+    "college_name": "University Business School, Panjab University - [UBS]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 23,945",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "22",
+    "college_name": "P.U. Swami Sarvanand Giri Regional Centre - [PUSSGRC]",
+    "location": "Hoshiarpur, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,14,305",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "23",
+    "college_name": "Gian Jyoti Institute of Management and Technology - [GJIMT]",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,03,950",
+    "placement": "₹ 12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "24",
+    "college_name": "Chandigarh College of Engineering and Technology - [CCET]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 75,998",
+    "placement": "₹ 6,73,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "25",
+    "college_name": "National Institute of Technical Teachers Training and Research - [NITTTR]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "ME/M.Tech",
+    "fees": "₹ 75,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "26",
+    "college_name": "Government Industrial Training Institute - [GITI]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "Certificate in Engineering",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "27",
+    "college_name": "Chandigarh Business School of Administration - [CBSA] Landran",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,00,200",
+    "placement": "₹ 50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "28",
+    "college_name": "Indo Swiss Training Centre - [ISTC]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "Graduate Diploma in Engineering",
+    "fees": "₹ 20,000",
+    "placement": "₹ 9,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "29",
+    "college_name": "RIMT University",
+    "location": "Gobindgarh, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,93,000",
+    "placement": "₹ 6,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "30",
+    "college_name": "DAV College For Women",
+    "location": "Firozpur, Punjab",
+    "best_suit_for": "BCA",
+    "fees": "₹ 52,046",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "31",
+    "college_name": "Guru Kashi University",
+    "location": "Bathinda, Punjab",
+    "best_suit_for": "BA",
+    "fees": "₹ 4,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "32",
+    "college_name": "IITT Institutions",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "33",
+    "college_name": "Sant Baba Bhag Singh University - [SBBSU]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 46,850",
+    "placement": "₹ 7,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "34",
+    "college_name": "Swami Vivekanand Institute of Engineering & Technology - [SVIET]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,05,000",
+    "placement": "₹ 60,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "35",
+    "college_name": "Chandigarh Group of Colleges - [CGC] Landran",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,66,000",
+    "placement": "₹ 50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "36",
+    "college_name": "Centre for Distance and Online Education, Panjab University - [CDOE]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BA",
+    "fees": "₹ 22,900",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "37",
+    "college_name": "CGC University",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,78,000",
+    "placement": "₹ 1,00,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "38",
+    "college_name": "DAV Institute of Engineering and Technology - [DAVIET]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "₹ 70,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "39",
+    "college_name": "GNA University",
+    "location": "Phagwara, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,00,000",
+    "placement": "₹ 30,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "40",
+    "college_name": "National Institute of Pharmaceutical Education and Research - [NIPER]",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "M.Pharm",
+    "fees": "₹ 1,40,348",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "41",
+    "college_name": "Global Group of Institutes",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "₹ 30,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "42",
+    "college_name": "Punjab Agricultural University - [PAU]",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 94,960",
+    "placement": "₹ 9,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "43",
+    "college_name": "Baba Farid University of Health Sciences - [BFUHS]",
+    "location": "Faridkot, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 4,47,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "44",
+    "college_name": "Dayanand Medical College and Hospital - [DMCH]",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 4,86,450",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "45",
+    "college_name": "Gulzar Group of Institutes - [GGI]",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,21,200",
+    "placement": "₹ 17,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "46",
+    "college_name": "Sri Guru Ram Das University of Health Sciences - [sgrduhs]",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 45,54,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "47",
+    "college_name": "Guru Nanak Dev Engineering College - [GNDEC]",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,20,619",
+    "placement": "₹ 10,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "48",
+    "college_name": "Punjab Institute of Medical Sciences - [PIMS]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,29,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "49",
+    "college_name": "Narsee Monjee Institute of Management Studies - [NMIMS]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "B.Com",
+    "fees": "₹ 1,50,000",
+    "placement": "₹ 22,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "50",
+    "college_name": "DAV University",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 86,400",
+    "placement": "₹ 32,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "51",
+    "college_name": "Christian Dental College",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "BDS",
+    "fees": "₹ 2,20,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "52",
+    "college_name": "Dr.Ambedkar Institute of Hotel Management Catering and Nutrition - [IHM]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,47,135",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "53",
+    "college_name": "Sri Guru Granth Sahib World University - [SGGSWU]",
+    "location": "Fatehgarh Sahib, Punjab",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "₹ 68,000",
+    "placement": "₹ 13,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "54",
+    "college_name": "University Institute of Legal Studies, Panjab University",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 88,580",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "55",
+    "college_name": "Rajiv Gandhi National University of Law - [RGNUL]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 2,42,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "56",
+    "college_name": "SCD Government College",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "BA",
+    "fees": "₹ 7,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "57",
+    "college_name": "Amritsar College of Engineering and Technology - [ACET]",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "₹ 40,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "58",
+    "college_name": "Baba Banda Singh Bahadur Engineering College - [BBSBEC]",
+    "location": "Fatehgarh Sahib, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,02,000",
+    "placement": "₹ 7,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "59",
+    "college_name": "Plaksha University",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 8,80,000",
+    "placement": "₹ 50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "60",
+    "college_name": "Kamla Nehru College for Women - [KNC]",
+    "location": "Kapurthala, Punjab",
+    "best_suit_for": "BFA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "61",
+    "college_name": "Doaba Group of Colleges - [DGC]",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,18,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "62",
+    "college_name": "Giani Zail Singh Campus College of Engineering and Technology - [GZSCCET]",
+    "location": "Bathinda, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,04,600",
+    "placement": "₹ 4,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "63",
+    "college_name": "Baba Farid College of Management and Technology - [BFCMT]",
+    "location": "Bathinda, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,80,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "64",
+    "college_name": "Chandigarh Institute of Hotel Management and Catering Technology - [CIHMCT]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 3,00,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "65",
+    "college_name": "Army Institute of Law - [AIL]",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 1,92,805",
+    "placement": "₹ 16,10,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "66",
+    "college_name": "Government Home Science College",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 33,215",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "67",
+    "college_name": "Chandigarh University - [CU]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,24,500",
+    "placement": "₹ 1,70,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "68",
+    "college_name": "ISF College of pharmacy",
+    "location": "Moga, Punjab",
+    "best_suit_for": "B.Pharm",
+    "fees": "₹ 90,000",
+    "placement": "₹ 5,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "69",
+    "college_name": "Department of Laws Panjab University",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "LLB",
+    "fees": "₹ 15,115",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "70",
+    "college_name": "Indo Global College of Engineering",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "71",
+    "college_name": "Chitkara School of Hospitality -[CSH]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 2,20,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "72",
+    "college_name": "University Institute of Tourism and Hospitality Management, Chandigarh University - [UITHM]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BHM (Hospital)",
+    "fees": "₹ 1,70,500",
+    "placement": "₹ 25,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "73",
+    "college_name": "Northern India Institute of Fashion Technology - [NIIFT]",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 1,19,750",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "74",
+    "college_name": "Mehr Chand Mahajan Dayanand Anglo Vedic College for Women - [MCM DAV]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BA",
+    "fees": "₹ 31,715",
+    "placement": "₹ 5,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "75",
+    "college_name": "Hotel & Catering Management Institute - [HCMI]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 69,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "76",
+    "college_name": "Quest Group of Institutions",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "77",
+    "college_name": "Sahibzada Ajit Singh Group of Institutions",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 71,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "78",
+    "college_name": "Dr IT School of Business",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,00,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "79",
+    "college_name": "Doraha Institute of Management and Technology - [DIMT]",
+    "location": "Ludhiana, Punjab",
+    "best_suit_for": "B.Com",
+    "fees": "₹ 69,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "80",
+    "college_name": "Chitkara University - [CU]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 4,30,000",
+    "placement": "₹ 44,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "81",
+    "college_name": "Khalsa College",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 59,960",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "82",
+    "college_name": "BBK DAV College for Women",
+    "location": "Amritsar, Punjab",
+    "best_suit_for": "BA",
+    "fees": "₹ 70,380",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "83",
+    "college_name": "Chitkara University, Chitkara School of Planning and Architecture - [CSPA]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "B.Arch",
+    "fees": "₹ 2,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "84",
+    "college_name": "DAV College - [DAVC]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BA",
+    "fees": "₹ 20,641",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "85",
+    "college_name": "Chitkara College of Pharmacy - [CCP]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "B.Pharm",
+    "fees": "₹ 2,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "86",
+    "college_name": "Goswami Ganesh Dutta Sanatan Dharma College - [GGDSD]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 3,700",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "87",
+    "college_name": "Government College of Education",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "B.Ed",
+    "fees": "₹ 22,970",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "88",
+    "college_name": "Baba Farid College of Engineering and Technology - [BFCET]",
+    "location": "Bathinda, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 87,410",
+    "placement": "₹ 12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "89",
+    "college_name": "Sri Sai College of Education - [SSCE]",
+    "location": "Pathankot, Punjab",
+    "best_suit_for": "D.El.Ed",
+    "fees": "₹ 44,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "90",
+    "college_name": "LPU Online",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "Online MBA",
+    "fees": "₹ 1,00,000",
+    "placement": "₹ 7,25,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "91",
+    "college_name": "Chitkara University, Chitkara School of Mass Communication - [CSMC]",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "BMM",
+    "fees": "₹ 1,40,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "92",
+    "college_name": "Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy",
+    "location": "Bela, Punjab",
+    "best_suit_for": "B.Pharm",
+    "fees": "₹ 1,11,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "93",
+    "college_name": "Chandigarh College of Hotel Management and Catering Technology - [CCHMCT] Landran",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BHM",
+    "fees": "₹ 4,80,000",
+    "placement": "₹ 45,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "94",
+    "college_name": "Chitkara University Online",
+    "location": "Patiala, Punjab",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 2,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "95",
+    "college_name": "GGS College of Modern Technology",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 80,900",
+    "placement": "₹ 9,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "96",
+    "college_name": "I.K. Gujral Punjab Technical University - [IKG-PTU]",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,26,200",
+    "placement": "₹ 64,87,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "97",
+    "college_name": "Chandigarh University Online",
+    "location": "Mohali, Punjab",
+    "best_suit_for": "MBA",
+    "fees": "₹ 79,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "98",
+    "college_name": "CT Institute of Hospitality Management",
+    "location": "Jalandhar, Punjab",
+    "best_suit_for": "BHM",
+    "fees": "₹ 2,40,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "99",
+    "college_name": "Baba Farid Group of Institutions - [BFGI]",
+    "location": "Bathinda, Punjab",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 55,000",
+    "placement": "₹ 72,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "100",
+    "college_name": "Post Graduate Government College for Girls",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MA",
+    "fees": "₹ 27,092",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "101",
+    "college_name": "IIT Jammu - Indian Institute of Technology - [IITJ]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "ME/M.Tech",
+    "fees": "₹ 60,040",
+    "placement": "₹ 53,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "102",
+    "college_name": "IIM Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 10,53,980",
+    "placement": "₹ 31,75,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "103",
+    "college_name": "National Institute of Technology - [NIT]",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,64,500",
+    "placement": "₹ 36,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "104",
+    "college_name": "Government Medical College",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 34,215",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "105",
+    "college_name": "All India Institute Of Medical Sciences - [AIIMS]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,856",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "106",
+    "college_name": "Shri Mata Vaishno Devi University - [SMVDU]",
+    "location": "Katra, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,63,990",
+    "placement": "₹ 19,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "107",
+    "college_name": "Islamic University of Science and Technology - [IUST]",
+    "location": "Pulwama, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 76,200",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "108",
+    "college_name": "Model Institute of Engineering and Technology - [MIET]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,13,350",
+    "placement": "₹ 18,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "109",
+    "college_name": "Central University Of Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 24,430",
+    "placement": "₹ 10,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "110",
+    "college_name": "Sher-i-Kashmir Institute of Medical Sciences - [SKIMS]",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 94,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "111",
+    "college_name": "Yogananda College of Engineering & Technology -[YCET]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 58,703",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "112",
+    "college_name": "University of Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MA",
+    "fees": "₹ 21,380",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "113",
+    "college_name": "The Business School University of Jammu - [TBS]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 57,219",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "114",
+    "college_name": "Government College for Women",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 3,458",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "115",
+    "college_name": "Government College of Engineering and Technology - [GCET]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 42,920",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "116",
+    "college_name": "Central Institute of Temperate Horticultural - [CITH]",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "117",
+    "college_name": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Kashmir - [SKUAST]",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "M.F.Sc",
+    "fees": "₹ 30,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "118",
+    "college_name": "University of Kashmir - [KU]",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "MA",
+    "fees": "₹ 9,998",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "119",
+    "college_name": "Government Degree College",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "120",
+    "college_name": "SSM College of Engineering and Technology - [SSM]",
+    "location": "Baramulla, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 49,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "121",
+    "college_name": "Cluster University of Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 47,230",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "122",
+    "college_name": "Sher-e-Kashmir University of Agricultural Sciences and Technology of Jammu - [SKUAST-J]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "B.Sc (Agriculture)",
+    "fees": "₹ 26,900",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "123",
+    "college_name": "Government College for Women - [GCW]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "₹ 28,560",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "124",
+    "college_name": "Directorate of Distance Education, University of Jammu",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MA",
+    "fees": "₹ 10,690",
+    "placement": "₹ 5,60,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "125",
+    "college_name": "Baldev Institute of Management Technology and Sciences - [BIMTAS]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BCA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "126",
+    "college_name": "Central University of Kashmir",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "MA",
+    "fees": "₹ 12,440",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "127",
+    "college_name": "MBS College of Engineering and Technology",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 49,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "128",
+    "college_name": "Amar Singh Government Degree College",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "129",
+    "college_name": "Bhartiya College of Education",
+    "location": "Udhampur, Jammu and Kashmir",
+    "best_suit_for": "B.Ed",
+    "fees": "₹ 40,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "130",
+    "college_name": "Government Degree College",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "₹ 7,290",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "131",
+    "college_name": "Government Degree College for Boys",
+    "location": "Anantnag, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "132",
+    "college_name": "Government Degree College for Boys",
+    "location": "Udhampur, Jammu and Kashmir",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 21,960",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "133",
+    "college_name": "Government Degree College for Women",
+    "location": "Anantnag, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "₹ 2,530",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "134",
+    "college_name": "Government MAM College",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BCA",
+    "fees": "₹ 14,068",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "135",
+    "college_name": "Jamia Tul Banat Saifni",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "₹ 43,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "136",
+    "college_name": "Swami Vishwatamanand Saraswati Degree College",
+    "location": "Rajauri, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "137",
+    "college_name": "Government Degree College",
+    "location": "Doda, Jammu and Kashmir",
+    "best_suit_for": "BA",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "138",
+    "college_name": "Jammu Institute of Ayurveda and Research College - [JIAR]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BAMS",
+    "fees": "₹ 3,54,665",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "139",
+    "college_name": "Government Dental College",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BDS",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "140",
+    "college_name": "Institute of Dental Sciences - [IDS]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BDS",
+    "fees": "₹ 3,45,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "141",
+    "college_name": "Institute of Hotel Management Catering Technology and Applied Nutrition",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,06,900",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "142",
+    "college_name": "Ashoka Law College",
+    "location": "Kathua, Jammu and Kashmir",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "143",
+    "college_name": "Bhargava Law College",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "144",
+    "college_name": "Dogra Law College",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 40,353",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "145",
+    "college_name": "KC Law College",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "146",
+    "college_name": "Kashmir Law College",
+    "location": "Srinagar, Jammu and Kashmir",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 1,05,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "147",
+    "college_name": "Bhargava Paramedical College",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "GNM",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "148",
+    "college_name": "Acharya Shri Chander College of Medical Sciences",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 39,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "149",
+    "college_name": "Government Medical College - [GMC]",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 26,250",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "150",
+    "college_name": "Acharya Shri Chander Institute of Nursing Education",
+    "location": "Jammu, Jammu and Kashmir",
+    "best_suit_for": "GNM",
+    "fees": "₹ 51,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "151",
+    "college_name": "IIT Kanpur - Indian Institute of Technology - [IITK]",
+    "location": "Kanpur, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,53,120",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "152",
+    "college_name": "IIML - Indian Institute of Management",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 11,15,000",
+    "placement": "₹ 75,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "153",
+    "college_name": "National Council For Hotel Management and Catering Technology",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,25,915",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "154",
+    "college_name": "IIT BHU - Indian Institute of Technology",
+    "location": "Varanasi, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,18,815",
+    "placement": "₹ 1,68,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "155",
+    "college_name": "Aligarh Muslim University - [AMU]",
+    "location": "Aligarh, Uttar Pradesh",
+    "best_suit_for": "BA",
+    "fees": "₹ 13,680",
+    "placement": "₹ 14,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "156",
+    "college_name": "MNNIT Allahabad - Motilal Nehru National Institute of Technology",
+    "location": "Allahabad, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,68,000",
+    "placement": "₹ 72,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "157",
+    "college_name": "Amity School of Hospitality",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "M.Phil/Ph.D in Hotel Management",
+    "fees": "₹ 1,70,000",
+    "placement": "₹ 6,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "158",
+    "college_name": "Indian Institute of Information Technology - [IIIT]",
+    "location": "Allahabad, Uttar Pradesh",
+    "best_suit_for": "ME/M.Tech",
+    "fees": "₹ 2,12,610",
+    "placement": "₹ 1,21,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "159",
+    "college_name": "Institute of Medical Sciences - [IMS BHU]",
+    "location": "Varanasi, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,49,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "160",
+    "college_name": "Indian Institute of Information Technology - [IIITL]",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,69,700",
+    "placement": "₹ 1,45,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "161",
+    "college_name": "Lloyd Law College",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 9,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "162",
+    "college_name": "IMT - Institute of Management Technology",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "best_suit_for": "PG Diploma in Management",
+    "fees": "₹ 30,42,976",
+    "placement": "₹ 41,55,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "163",
+    "college_name": "King George's Medical University - [KGMU]",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 41,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "164",
+    "college_name": "Amity School of Architecture and Planning",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "B.Arch",
+    "fees": "₹ 2,79,000",
+    "placement": "₹ 17,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "165",
+    "college_name": "All India Institute Of Medical Sciences - [AIIMS]",
+    "location": "Gorakhpur, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,293",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "166",
+    "college_name": "Department of Management Sciences, IIT Kanpur- [DOMS IITKP]",
+    "location": "Kanpur, Uttar Pradesh",
+    "best_suit_for": "Executive MBA",
+    "fees": "₹ 13,50,000",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "167",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Rae Bareli, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,628",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "168",
+    "college_name": "Institute of Hotel Management Catering Technology and Applied Nutrition - [IHM]",
+    "location": "Meerut, Uttar Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 95,000",
+    "placement": "₹ 4,20,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "169",
+    "college_name": "Dr. Ram Manohar Lohia Institute of Medical Sciences - [RMLIMS]",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 49,700",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "170",
+    "college_name": "Birla Institute of Management Technology - [BIMTECH]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 14,00,000",
+    "placement": "₹ 24,43,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "171",
+    "college_name": "Banaras Hindu University - [BHU]",
+    "location": "Varanasi, Uttar Pradesh",
+    "best_suit_for": "BA",
+    "fees": "₹ 2,300",
+    "placement": "₹ 1,20,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "172",
+    "college_name": "Sanjay Gandhi Postgraduate Institute of Medical Sciences - [SGPGIMS]",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 43,250",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "173",
+    "college_name": "Rajiv Gandhi Institute of Petroleum Technology - [RGIPT]",
+    "location": "Amethi, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,56,000",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "174",
+    "college_name": "Jawahar Lal Nehru Medical College - [JNMC]",
+    "location": "Aligarh, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 2,39,200",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "175",
+    "college_name": "Amity Business School - [ABS]",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 6,90,000",
+    "placement": "₹ 26,30,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "176",
+    "college_name": "Institute of Management Studies, Banaras Hindu University",
+    "location": "Varanasi, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 70,000",
+    "placement": "₹ 23,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "177",
+    "college_name": "IMS",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 5,00,000",
+    "placement": "₹ 35,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "178",
+    "college_name": "Zakir Hussain College of Engineering and Technology - [ZHCET]",
+    "location": "Aligarh, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 18,990",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "179",
+    "college_name": "Jaypee Institute of Information Technology University - [JIIT]",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 4,06,000",
+    "placement": "₹ 62,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "180",
+    "college_name": "Dayalbagh Educational Institute - [DEI]",
+    "location": "Agra, Uttar Pradesh",
+    "best_suit_for": "BA",
+    "fees": "₹ 5,150",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "181",
+    "college_name": "Amity School of Engineering & Technology - [ASET]",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,06,500",
+    "placement": "₹ 35,90,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "182",
+    "college_name": "GSVM Medical College",
+    "location": "Kanpur, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 39,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "183",
+    "college_name": "Government Institute of Medical Sciences - [GIMS]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,51,100",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "184",
+    "college_name": "Sarojini Naidu Medical College - [SNMC]",
+    "location": "Agra, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 36,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "185",
+    "college_name": "LLRM Medical College",
+    "location": "Meerut, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 43,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "186",
+    "college_name": "UEI Global",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 3,00,000",
+    "placement": "₹ 24,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "187",
+    "college_name": "Sharda University, School of Medical Sciences and Research - [SMSR]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 12,69,319",
+    "placement": "₹ 1,00,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "188",
+    "college_name": "Jaipuria Institute of Management",
+    "location": "Lucknow, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 7,55,000",
+    "placement": "₹ 36,64,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "189",
+    "college_name": "Ajay Kumar Garg Engineering College - [AKGEC]",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,42,156",
+    "placement": "₹ 33,80,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "190",
+    "college_name": "Moti Lal Nehru Medical College - [MLNMC]",
+    "location": "Allahabad, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,35,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "191",
+    "college_name": "Madan Mohan Malaviya University of Technology - [MMMUT]",
+    "location": "Gorakhpur, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,75,200",
+    "placement": "₹ 52,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "192",
+    "college_name": "Jaipuria Institute of Management",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,40,000",
+    "placement": "₹ 36,60,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "193",
+    "college_name": "Teerthanker Mahaveer Medical College and Research Center",
+    "location": "Moradabad, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 20,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "194",
+    "college_name": "Galgotias College of Engineering and Technology - [GCET]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,15,603",
+    "placement": "₹ 39,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "195",
+    "college_name": "Mahatma Jyotiba Phule Rohilkhand University - [MJPRU]",
+    "location": "Bareilly, Uttar Pradesh",
+    "best_suit_for": "MA",
+    "fees": "₹ 20,900",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "196",
+    "college_name": "Maharani Laxmi Bai Medical College",
+    "location": "Jhansi, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 42,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "197",
+    "college_name": "GL Bajaj Institute of Management and Research - [GLBIMR]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 7,85,000",
+    "placement": "₹ 23,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "198",
+    "college_name": "Baba Raghav Das Medical College - [BRD]",
+    "location": "Gorakhpur, Uttar Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,89,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "199",
+    "college_name": "Galgotias University - [GU]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,77,000",
+    "placement": "₹ 39,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "200",
+    "college_name": "Gautam Buddha University - [GBU]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 54,100",
+    "placement": "₹ 22,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "201",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,628",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "202",
+    "college_name": "Vardhman Mahavir Medical College - [VMMC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 57,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "203",
+    "college_name": "IIT Delhi - Indian Institute of Technology [IITD]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,27,750",
+    "placement": "₹ 2,00,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "204",
+    "college_name": "Shri Ram College of Commerce - [SRCC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "B.Com",
+    "fees": "₹ 32,420",
+    "placement": "₹ 35,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "205",
+    "college_name": "Maulana Azad Medical College - [MAMC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 4,445",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "206",
+    "college_name": "Atal Bihari Vajpayee Institute of Medical Sciences & Dr. Ram Manohar Lohia Hospital",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 54,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "207",
+    "college_name": "National Council For Hotel Management and Catering Technology",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,25,915",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "208",
+    "college_name": "FMS Delhi Faculty of Management Studies",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,16,000",
+    "placement": "₹ 1,23,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "209",
+    "college_name": "Delhi University - [DU]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "₹ 21,390",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "210",
+    "college_name": "University College of Medical Sciences - [UCMS]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 31,340",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "211",
+    "college_name": "MDI Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "Executive MBA",
+    "fees": "₹ 16,70,000",
+    "placement": "₹ 53,60,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "212",
+    "college_name": "Daulat Ram College - [DRC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 32,100",
+    "placement": "₹ 23,05,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "213",
+    "college_name": "IIFT Delhi Indian Institute of Foreign Trade",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 6,75,462",
+    "placement": "₹ 75,60,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "214",
+    "college_name": "National Law University - [NLU]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "₹ 1,95,000",
+    "placement": "₹ 14,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "215",
+    "college_name": "O.P. Jindal Global University, Jindal Global Law School - [JGLS]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 7,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "216",
+    "college_name": "Lady Hardinge Medical College - [LHMC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,655",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "217",
+    "college_name": "Netaji Subhas University of Technology - [NSUT]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,50,000",
+    "placement": "₹ 65,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "218",
+    "college_name": "DMS - Department of Management Studies IIT",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "M.Phil/Ph.D in Management",
+    "fees": "₹ 43,150",
+    "placement": "₹ 41,13,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "219",
+    "college_name": "Amity School of Hospitality",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "M.Phil/Ph.D in Hotel Management",
+    "fees": "₹ 1,70,000",
+    "placement": "₹ 6,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "220",
+    "college_name": "College of Vocational Studies - [CVS]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "Bachelors in Vocational Courses",
+    "fees": "₹ 18,800",
+    "placement": "₹ 23,05,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "221",
+    "college_name": "Delhi Technological University - [DTU]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,47,700",
+    "placement": "₹ 85,30,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "222",
+    "college_name": "IIM Rohtak Indian Institute of Management",
+    "location": "Rohtak, Haryana",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 6,76,045",
+    "placement": "₹ 36,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "223",
+    "college_name": "Dyal Singh College - [DSC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 14,705",
+    "placement": "₹ 23,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "224",
+    "college_name": "Indraprastha Institute of Information Technology - [IIITD]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 4,62,000",
+    "placement": "₹ 49,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "225",
+    "college_name": "Aryabhatta College",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 19,320",
+    "placement": "₹ 12,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "226",
+    "college_name": "Dr. Baba Saheb Ambedkar Medical College & Hospital - [BSAMCH]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,11,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "227",
+    "college_name": "Lloyd Law College",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 9,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "228",
+    "college_name": "Masters' Union",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 34,00,384",
+    "placement": "₹ 61,80,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "229",
+    "college_name": "IMT - Institute of Management Technology",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "best_suit_for": "PG Diploma in Management",
+    "fees": "₹ 30,42,976",
+    "placement": "₹ 41,55,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "230",
+    "college_name": "Shaheed Bhagat Singh Evening College",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 16,575",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "231",
+    "college_name": "Guru Gobind Singh Indraprastha University - [GGSIPU]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,89,500",
+    "placement": "₹ 45,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "232",
+    "college_name": "Army College of Medical Science - [ACMS]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,03,830",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "233",
+    "college_name": "National Institute of Technology - [NIT]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,61,600",
+    "placement": "₹ 58,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "234",
+    "college_name": "NDMC Medical College",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 2,25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "235",
+    "college_name": "IMI - International Management Institute",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 22,00,000",
+    "placement": "₹ 70,95,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "236",
+    "college_name": "Amity School of Architecture and Planning",
+    "location": "Noida, Uttar Pradesh",
+    "best_suit_for": "B.Arch",
+    "fees": "₹ 2,79,000",
+    "placement": "₹ 17,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "237",
+    "college_name": "FORE School of Management - [FSM]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 20,77,000",
+    "placement": "₹ 29,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "238",
+    "college_name": "Shivaji College",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 20,570",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "239",
+    "college_name": "University School of Law and Legal Studies - [USLLS]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 1,67,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "240",
+    "college_name": "Delhi School of Economics, University of Delhi - [DSE]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MA",
+    "fees": "₹ 11,751",
+    "placement": "₹ 26,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "241",
+    "college_name": "Institute of Hotel Management Catering Technology and Applied Nutrition - [IHM]",
+    "location": "Meerut, Uttar Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 95,000",
+    "placement": "₹ 4,20,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "242",
+    "college_name": "Institute of Hotel Management -[IHM]",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,28,915",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "243",
+    "college_name": "University of Delhi, Department of Financial Studies - [DFS]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 48,500",
+    "placement": "₹ 32,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "244",
+    "college_name": "Jamia Hamdard University",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 1,15,000",
+    "placement": "₹ 32,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "245",
+    "college_name": "Department of Business Economics, University of Delhi - [DBE]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 49,850",
+    "placement": "₹ 24,80,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "246",
+    "college_name": "Zakir Husain Delhi College",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 19,273",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "247",
+    "college_name": "Dyal Singh Evening College - [DSEC]",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 14,700",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "248",
+    "college_name": "World University of Design - [WUD]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "B.Des",
+    "fees": "₹ 3,20,000",
+    "placement": "₹ 12,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "249",
+    "college_name": "Birla Institute of Management Technology - [BIMTECH]",
+    "location": "Greater Noida, Uttar Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 14,00,000",
+    "placement": "₹ 24,43,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "250",
+    "college_name": "Motilal Nehru College (Evening)",
+    "location": "New Delhi, Delhi NCR",
+    "best_suit_for": "BA",
+    "fees": "₹ 12,290",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "251",
+    "college_name": "Post Graduate Institute of Medical Education & Research - [PGIMER]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 3,030",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "252",
+    "college_name": "MDI Gurgaon",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "Executive MBA",
+    "fees": "₹ 16,70,000",
+    "placement": "₹ 53,60,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "253",
+    "college_name": "Government Medical College and Hospital - [GMCH]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "254",
+    "college_name": "O.P. Jindal Global University, Jindal Global Law School - [JGLS]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 7,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "255",
+    "college_name": "XLRI - Xavier School Of Management Delhi-NCR Campus",
+    "location": "Jhajjar, Haryana",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 25,90,000",
+    "placement": "₹ 75,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "256",
+    "college_name": "IIM Rohtak Indian Institute of Management",
+    "location": "Rohtak, Haryana",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 6,76,045",
+    "placement": "₹ 36,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "257",
+    "college_name": "Masters' Union",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 34,00,384",
+    "placement": "₹ 61,80,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "258",
+    "college_name": "Punjab Engineering College University of Technology - [PEC]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,07,000",
+    "placement": "₹ 52,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "259",
+    "college_name": "Panjab University - [PU]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BA",
+    "fees": "₹ 20,885",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "260",
+    "college_name": "Institute of Hotel Management -[IHM]",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,28,915",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "261",
+    "college_name": "National Institute of Technology - [NIT]",
+    "location": "Kurukshetra, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,87,000",
+    "placement": "₹ 64,28,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "262",
+    "college_name": "Institute of Hotel Management",
+    "location": "Yamuna Nagar, Haryana",
+    "best_suit_for": "Diploma in Hotel Management",
+    "fees": "₹ 46,700",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "263",
+    "college_name": "Ambala Institute of Hotel Management - [AIHM]",
+    "location": "Ambala, Haryana",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,28,915",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "264",
+    "college_name": "World University of Design - [WUD]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "B.Des",
+    "fees": "₹ 3,20,000",
+    "placement": "₹ 12,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "265",
+    "college_name": "Pandit Bhagwat Dayal Sharma University of Health Sciences",
+    "location": "Rohtak, Haryana",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 24,125",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "266",
+    "college_name": "Dr. B.R. Ambedkar National Law University -[DBRANLU]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 1,48,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "267",
+    "college_name": "SOIL Institute of Management",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 15,33,226",
+    "placement": "₹ 20,70,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "268",
+    "college_name": "Great Lakes Institute of Management - [GLIM]",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 18,08,000",
+    "placement": "₹ 22,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "269",
+    "college_name": "Indian Institute of Information Technology - [IIIT]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,23,965",
+    "placement": "₹ 40,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "270",
+    "college_name": "ESIC Medical College",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,00,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "271",
+    "college_name": "Pt Bhagwat Dayal Sharma Post Graduate Institute of Medical Sciences - [PGIMS]",
+    "location": "Rohtak, Haryana",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 12,395",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "272",
+    "college_name": "LM Thapar School of Management, Derabassi",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 6,70,000",
+    "placement": "₹ 24,81,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "273",
+    "college_name": "O.P. Jindal Global University - [JGU]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "₹ 70,000",
+    "placement": "₹ 21,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "274",
+    "college_name": "Kurukshetra University - [KUK]",
+    "location": "Kurukshetra, Haryana",
+    "best_suit_for": "BA",
+    "fees": "₹ 12,690",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "275",
+    "college_name": "Maharishi Markandeshwar - [MMU]",
+    "location": "Ambala, Haryana",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 18,83,300",
+    "placement": "₹ 42,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "276",
+    "college_name": "Gurugram University",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "MSW",
+    "fees": "₹ 20,470",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "277",
+    "college_name": "Manav Rachna International Institute of Research and Studies - [MRIIRS]",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,00,500",
+    "placement": "₹ 32,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "278",
+    "college_name": "University Institute of Engineering and Technology -[UIET]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,34,860",
+    "placement": "₹ 25,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "279",
+    "college_name": "Maharshi Dayanand University - [MDU]",
+    "location": "Rohtak, Haryana",
+    "best_suit_for": "MA",
+    "fees": "₹ 4,962",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "280",
+    "college_name": "Deenbandhu Chhotu Ram University of Science and Technology - [DCRUST]",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 60,055",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "281",
+    "college_name": "University Business School, Panjab University - [UBS]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 23,945",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "282",
+    "college_name": "Kalpana Chawla Government Medical College - [KCGMC]",
+    "location": "Karnal, Haryana",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 80,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "283",
+    "college_name": "Dronacharya College of Engineering - [DCE]",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,41,100",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "284",
+    "college_name": "University Institute of Engineering and Technology - [UIET]",
+    "location": "Kurukshetra, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,10,000",
+    "placement": "₹ 11,40,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "285",
+    "college_name": "K.R. Mangalam University",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "M.Phil/Ph.D in Management",
+    "fees": "₹ 1,20,000",
+    "placement": "₹ 56,60,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "286",
+    "college_name": "Chandigarh College of Engineering and Technology - [CCET]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 75,998",
+    "placement": "₹ 6,73,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "287",
+    "college_name": "IBMR Business School",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 4,57,500",
+    "placement": "₹ 15,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "288",
+    "college_name": "J.C. Bose University Of Science And Technology, YMCA",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,12,866",
+    "placement": "₹ 47,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "289",
+    "college_name": "BPS Govt. Medical College for Women",
+    "location": "Sonepat, Haryana",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,03,050",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "290",
+    "college_name": "National Institute of Technical Teachers Training and Research - [NITTTR]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "ME/M.Tech",
+    "fees": "₹ 75,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "291",
+    "college_name": "Government Industrial Training Institute - [GITI]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "Certificate in Engineering",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "292",
+    "college_name": "Indo Swiss Training Centre - [ISTC]",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "Graduate Diploma in Engineering",
+    "fees": "₹ 20,000",
+    "placement": "₹ 9,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "293",
+    "college_name": "DAV Centenary College",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "B.Com",
+    "fees": "₹ 31,269",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "294",
+    "college_name": "Manav Rachna University, Faculty of Engineering",
+    "location": "Faridabad, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 52,40,000",
+    "placement": "₹ 34,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "295",
+    "college_name": "University Institute of Engineering and Technology, Maharshi Dayanand University - [UIET]",
+    "location": "Rohtak, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 87,092",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "296",
+    "college_name": "Central University of Haryana - [CUH]",
+    "location": "Mahendragarh, Haryana",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 18,616",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "297",
+    "college_name": "IILM Institute for Business & Management [IILM-IBM]",
+    "location": "Gurgaon, Haryana",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 3,40,000",
+    "placement": "₹ 10,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "298",
+    "college_name": "Chaudhary Charan Singh Haryana Agricultural University - [CCSHAU]",
+    "location": "Hisar, Haryana",
+    "best_suit_for": "M.Phil/Ph.D in Science",
+    "fees": "₹ 25,225",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "299",
+    "college_name": "IITT Institutions",
+    "location": "Chandigarh, Chandigarh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,00,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "300",
+    "college_name": "ICL Institute of Engineering and Technology",
+    "location": "Ambala, Haryana",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 85,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "301",
+    "college_name": "IIT Mandi- Indian Institute of Technology - [IITM]",
+    "location": "Mandi, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,19,000",
+    "placement": "₹ 65,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "302",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Bilaspur, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,628",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "303",
+    "college_name": "IIM Sirmaur",
+    "location": "Sirmaur, Himachal Pradesh",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 22,93,000",
+    "placement": "₹ 64,12,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "304",
+    "college_name": "Indira Gandhi Medical College - [IGMC]",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "305",
+    "college_name": "School of Management - IIT Mandi - [SOMIIT]",
+    "location": "Mandi, Himachal Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 4,07,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "306",
+    "college_name": "National Institute of Technology - [NIT]",
+    "location": "Hamirpur, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,80,200",
+    "placement": "₹ 58,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "307",
+    "college_name": "Indian Institute of Information Technology - [IIIT]",
+    "location": "Una, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,75,000",
+    "placement": "₹ 30,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "308",
+    "college_name": "Dr Rajendra Prasad Government Medical College - [RPGMC]",
+    "location": "Kangra, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "309",
+    "college_name": "Shoolini University",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,60,000",
+    "placement": "₹ 42,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "310",
+    "college_name": "Shri Lal Bahadur Shastri Government Medical College & Hospital - [SLBS MC]",
+    "location": "Mandi, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "311",
+    "college_name": "Dr. Y. S. Parmar Medical College Nahan",
+    "location": "Sirmaur, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "312",
+    "college_name": "Pt. Jawahar Lal Nehru Government Medical College and Hospital - [GMCH]",
+    "location": "Chamba, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "313",
+    "college_name": "Dr. Radhakrishnan Govt. Medical College",
+    "location": "Hamirpur, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "314",
+    "college_name": "Himachal Pradesh University - [HPU]",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "MA",
+    "fees": "₹ 3,234",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "315",
+    "college_name": "Abhilashi University - [AU]",
+    "location": "Mandi, Himachal Pradesh",
+    "best_suit_for": "Diploma in Pharmacy",
+    "fees": "₹ 2,10,000",
+    "placement": "₹ 4,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "316",
+    "college_name": "Arni University",
+    "location": "Kangra, Himachal Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 30,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "317",
+    "college_name": "Maharaja Agrasen University - [MAU]",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,33,800",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "318",
+    "college_name": "Eternal University - [EU]",
+    "location": "Sirmaur, Himachal Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 53,300",
+    "placement": "₹ 3,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "319",
+    "college_name": "Manav Bharti University - [MBU]",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BA",
+    "fees": "₹ 25,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "320",
+    "college_name": "Jawaharlal Nehru Government Engineering College - [JNGEC]",
+    "location": "Sundarnagar, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "321",
+    "college_name": "Career Point University - [CPU]",
+    "location": "Hamirpur, Himachal Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 48,000",
+    "placement": "₹ 66,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "322",
+    "college_name": "Maharishi Markandeshwar - [MMU]",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 8,62,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "323",
+    "college_name": "Atal Medical and Research University - [AMRU]",
+    "location": "Mandi, Himachal Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 60,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "324",
+    "college_name": "St Bede's College",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "BA",
+    "fees": "₹ 26,988",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "325",
+    "college_name": "APG Shimla University",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 84,000",
+    "placement": "₹ 25,70,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "326",
+    "college_name": "KC Group of Institutions",
+    "location": "Una, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,74,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "327",
+    "college_name": "Chitkara University",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,80,000",
+    "placement": "₹ 1,11,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "328",
+    "college_name": "Institute of Hotel Management Catering and Nutrition - [IHM]",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,29,415",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "329",
+    "college_name": "Bhojia Dental College and Hospital",
+    "location": "Baddi, Himachal Pradesh",
+    "best_suit_for": "BDS",
+    "fees": "₹ 2,02,387",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "330",
+    "college_name": "Indus International University - [IIU]",
+    "location": "Una, Himachal Pradesh",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 62,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "331",
+    "college_name": "LR Institute of Engineering and Technology",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,96,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "332",
+    "college_name": "Faculty of Pharmaceutical Sciences, Shoolini University",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "B.Pharm",
+    "fees": "₹ 1,83,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "333",
+    "college_name": "Himachal Institute of Engineering and Technology - [HIET]",
+    "location": "Kangra, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 73,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "334",
+    "college_name": "Faculty of Engineering and Technology, Shoolini University",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,60,000",
+    "placement": "₹ 42,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "335",
+    "college_name": "Dr YS Parmar University of Horticulture and Forestry - [YSPUHF]",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "B.Sc (Agriculture)",
+    "fees": "₹ 68,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "336",
+    "college_name": "Maharana Pratap Government College - [MPGC]",
+    "location": "Una, Himachal Pradesh",
+    "best_suit_for": "MA",
+    "fees": "₹ 725",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "337",
+    "college_name": "Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya - [CSK HPKV]",
+    "location": "Palampur, Himachal Pradesh",
+    "best_suit_for": "B.Sc (Agriculture)",
+    "fees": "₹ 43,818",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "338",
+    "college_name": "Himalayan Institute of Management",
+    "location": "Sirmaur, Himachal Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 72,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "339",
+    "college_name": "Jaypee University of Information Technology - [JUIT]",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,66,000",
+    "placement": "₹ 50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "340",
+    "college_name": "Himalayan Group of Professional Institutions",
+    "location": "Sirmaur, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 92,570",
+    "placement": "₹ 20,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "341",
+    "college_name": "Bahra University - [BU]",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,65,000",
+    "placement": "₹ 1,25,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "342",
+    "college_name": "Baddi University of Emerging Sciences and Technologies - [BUEST]",
+    "location": "Baddi, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,40,000",
+    "placement": "₹ 1,50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "343",
+    "college_name": "University Institute of Information Technology, Himachal Pradesh University - [UIIT]",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,22,010",
+    "placement": "₹ 8,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "344",
+    "college_name": "ICFAI University",
+    "location": "Baddi, Himachal Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 36,800",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "345",
+    "college_name": "Rajiv Gandhi govt. Engineering college -[RGGEC]",
+    "location": "Kangra, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 56,870",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "346",
+    "college_name": "Govt College of Teacher Education - [GCTE]",
+    "location": "Kangra, Himachal Pradesh",
+    "best_suit_for": "B.Ed",
+    "fees": "₹ 10,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "347",
+    "college_name": "Central University of Himachal Pradesh - [CUHP]",
+    "location": "Kangra, Himachal Pradesh",
+    "best_suit_for": "MSW",
+    "fees": "₹ 23,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "348",
+    "college_name": "Himachal Pradesh University Business School - [HPUBS]",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "349",
+    "college_name": "Heritage Institute of Hotel and Tourism - [HIHT]",
+    "location": "Shimla, Himachal Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 3,30,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "350",
+    "college_name": "LR Group of Institutes",
+    "location": "Solan, Himachal Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 85,820",
+    "placement": "₹ 8,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "351",
+    "college_name": "IIT Roorkee - Indian Institute of Technology - [IITR]",
+    "location": "Roorkee, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,24,100",
+    "placement": "₹ 1,30,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "352",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Rishikesh, Uttarakhand",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,356",
+    "placement": "₹ 24,10,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "353",
+    "college_name": "Indian Institute of Management - [IIM]",
+    "location": "Kashipur, Uttarakhand",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 10,17,000",
+    "placement": "₹ 29,86,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "354",
+    "college_name": "Department of Management Studies, Indian Institute of Technology - [DOMS]",
+    "location": "Roorkee, Uttarakhand",
+    "best_suit_for": "Executive MBA",
+    "fees": "₹ 5,96,250",
+    "placement": "₹ 24,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "355",
+    "college_name": "National Institute of Technology - [NIT] Uttarakhand",
+    "location": "Srinagar Garhwal, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,62,043",
+    "placement": "₹ 12,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "356",
+    "college_name": "IMS Unison University - [IUU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 1,22,000",
+    "placement": "₹ 41,62,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "357",
+    "college_name": "Roorkee Institute of Technology - [RIT]",
+    "location": "Roorkee, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,09,900",
+    "placement": "₹ 18,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "358",
+    "college_name": "UPES, School of Business",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 8,42,000",
+    "placement": "₹ 29,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "359",
+    "college_name": "Uttaranchal Institute of Technology - [UIT]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,93,600",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "360",
+    "college_name": "Government Doon Medical College - [GDMC]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,65,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "361",
+    "college_name": "Graphic Era University, School of Engineering and Technology - [GEU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,22,900",
+    "placement": "₹ 61,99,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "362",
+    "college_name": "DIT University - [DIT]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,40,300",
+    "placement": "₹ 58,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "363",
+    "college_name": "Uttaranchal University",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 1,41,980",
+    "placement": "₹ 1,50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "364",
+    "college_name": "Tula's Institute",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,86,000",
+    "placement": "₹ 36,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "365",
+    "college_name": "Government Medical College",
+    "location": "Haldwani, Uttarakhand",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,67,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "366",
+    "college_name": "Graphic Era University - [GEU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,23,400",
+    "placement": "₹ 61,99,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "367",
+    "college_name": "Shivalik College of Engineering - [SCE]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,43,900",
+    "placement": "₹ 42,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "368",
+    "college_name": "ICFAI Business School - [IBS]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 7,02,000",
+    "placement": "₹ 10,70,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "369",
+    "college_name": "MotherHood University",
+    "location": "Roorkee, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 37,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "370",
+    "college_name": "Maya Devi University - [MDU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 66,000",
+    "placement": "₹ 43,60,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "371",
+    "college_name": "Maharaja Agrasen Himalayan Garhwal University - [MAHGU]",
+    "location": "Garhwal, Uttarakhand",
+    "best_suit_for": "BA",
+    "fees": "₹ 20,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "372",
+    "college_name": "Veer Chandra Singh Garhwali Government Institute Of Medical Science and Research- [VCSGGMS & RI]",
+    "location": "Srinagar, Uttarakhand",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 2,25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "373",
+    "college_name": "Quantum University",
+    "location": "Roorkee, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,72,500",
+    "placement": "₹ 33,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "374",
+    "college_name": "UPES, School of Engineering",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,82,000",
+    "placement": "₹ 1,30,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "375",
+    "college_name": "Dev Bhoomi Uttarakhand University - [DBUU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,52,400",
+    "placement": "₹ 40,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "376",
+    "college_name": "Institute of Technology and Management - [ITM]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BA",
+    "fees": "₹ 43,000",
+    "placement": "₹ 14,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "377",
+    "college_name": "Shri Guru Ram Rai University - [SGRRU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 40,050",
+    "placement": "₹ 12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "378",
+    "college_name": "Himalayan Institute of Medical Sciences - [HIMS]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 23,57,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "379",
+    "college_name": "Ras Bihari Bose Subharti University",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 2,40,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "380",
+    "college_name": "DAV PG College Dehradun",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BA",
+    "fees": "₹ 30,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "381",
+    "college_name": "DAV PG College Dehradun",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BA",
+    "fees": "₹ 30,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "382",
+    "college_name": "Bhagwant Global University",
+    "location": "Garhwal, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 34,750",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "383",
+    "college_name": "Govind Ballabh Pant University of Agriculture and Technology",
+    "location": "Pantnagar, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 61,024",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "384",
+    "college_name": "Culinary College of Hotel Management and Catering Technology - [CCHMCT]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BHM",
+    "fees": "₹ 70,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "385",
+    "college_name": "DBS Global University",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 4,67,000",
+    "placement": "₹ 24,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "386",
+    "college_name": "Graphic Era Hill University - [GEHU]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 4,12,500",
+    "placement": "₹ 47,88,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "387",
+    "college_name": "Institute of Hotel Management Catering Technology & Applied Nutrition - [IHM]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,25,915",
+    "placement": "₹ 2,40,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "388",
+    "college_name": "Graphic Era Hill University Bhimtal Campus - [GEHU]",
+    "location": "Bhimtal, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,20,500",
+    "placement": "₹ 47,88,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "389",
+    "college_name": "Shri Guru Ram Rai Institute of Medical and Health Sciences",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 21,85,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "390",
+    "college_name": "Law College Dehradun - [LCD]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "LLB",
+    "fees": "₹ 1,64,850",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "391",
+    "college_name": "B.S.M. P.G. College - [BSMPGC]",
+    "location": "Roorkee, Uttarakhand",
+    "best_suit_for": "MA",
+    "fees": "₹ 5,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "392",
+    "college_name": "Dayanand Women's Training College",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Ed",
+    "fees": "₹ 3,046",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "393",
+    "college_name": "Doon Institute of Education",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Ed",
+    "fees": "₹ 55,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "394",
+    "college_name": "Directorate of Coldwater Fisheries Research",
+    "location": "Nainital, Uttarakhand",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "395",
+    "college_name": "Dolphin PG Institute of BioMedical & Natural Sciences",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 1,08,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "396",
+    "college_name": "Forest Research Institute - [FRI]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 43,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "397",
+    "college_name": "Wildlife Institute of India - [WII]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "PG Diploma in Science",
+    "fees": "₹ 12,10,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "398",
+    "college_name": "Doon Valley College of Education - [DVCE]",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "B.Ed",
+    "fees": "₹ 45,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "399",
+    "college_name": "Uttaranchal Institute of Management",
+    "location": "Dehradun, Uttarakhand",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 3,14,048",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "400",
+    "college_name": "College of Technology, GB Pant University of Agriculture & Technology",
+    "location": "Pantnagar, Uttarakhand",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 57,164",
+    "placement": "₹ 6,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "401",
+    "college_name": "National Law University - [NLU]",
+    "location": "Jodhpur, Rajasthan",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 3,00,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "402",
+    "college_name": "BITS Pilani (Pilani Campus)",
+    "location": "Pilani, Rajasthan",
+    "best_suit_for": "ME/M.Tech",
+    "fees": "₹ 6,38,175",
+    "placement": "₹ 60,75,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "403",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Jodhpur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 24,102",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "404",
+    "college_name": "IIT Jodhpur - Indian Institute of Technology - [IITJ]",
+    "location": "Jodhpur, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,54,800",
+    "placement": "₹ 53,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "405",
+    "college_name": "Indian Institute of Management - [IIMU]",
+    "location": "Udaipur, Rajasthan",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 23,17,260",
+    "placement": "₹ 47,66,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "406",
+    "college_name": "SMS Medical College - [SMSMC]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,300",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "407",
+    "college_name": "Manipal University - [MUJ]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,50,000",
+    "placement": "₹ 88,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "408",
+    "college_name": "Malaviya National Institute of Technology - [MNIT]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,45,187",
+    "placement": "₹ 64,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "409",
+    "college_name": "Department of Management, BITS",
+    "location": "Pilani, Rajasthan",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 6,38,175",
+    "placement": "₹ 27,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "410",
+    "college_name": "RUHS College of Medical Sciences",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "411",
+    "college_name": "Sardar Patel Medical College - [SPMC]",
+    "location": "Bikaner, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,300",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "412",
+    "college_name": "Banasthali Vidyapith",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 89,000",
+    "placement": "₹ 5,20,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "413",
+    "college_name": "Dr SN Medical College & Hospital",
+    "location": "Jodhpur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,300",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "414",
+    "college_name": "The LNM Institute of Information Technology - [LNMIIT]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 5,31,400",
+    "placement": "₹ 1,24,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "415",
+    "college_name": "SS Jain Subodh PG College",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 25,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "416",
+    "college_name": "Indian Institute of Information Technology - [IIIT-K]",
+    "location": "Kota, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,46,425",
+    "placement": "₹ 65,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "417",
+    "college_name": "RNT Medical College",
+    "location": "Udaipur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "418",
+    "college_name": "Jawaharlal Nehru Medical College - [JLN]",
+    "location": "Ajmer, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,265",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "419",
+    "college_name": "Vivekananda Global University - [VGU]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,85,000",
+    "placement": "₹ 46,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "420",
+    "college_name": "Department of Management Studies, MNIT - [DMS MNIT]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,71,287",
+    "placement": "₹ 16,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "421",
+    "college_name": "Rajasthan University of Health Sciences - [RUHS]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 85,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "422",
+    "college_name": "Government Medical College",
+    "location": "Kota, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,19,300",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "423",
+    "college_name": "IIHMR University",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 12,50,000",
+    "placement": "₹ 35,60,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "424",
+    "college_name": "Biyani Group of Colleges",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 75,000",
+    "placement": "₹ 18,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "425",
+    "college_name": "Mahatma Gandhi Medical College and Hospital",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 22,50,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "426",
+    "college_name": "Jhalawar Hospital & Medical College",
+    "location": "Jhalawar, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "427",
+    "college_name": "Jai Narain Vyas University - [JNVU]",
+    "location": "Jodhpur, Rajasthan",
+    "best_suit_for": "BA",
+    "fees": "₹ 2,570",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "428",
+    "college_name": "Government Medical College",
+    "location": "Pali, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "429",
+    "college_name": "St Wilfred's PG College",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 54,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "430",
+    "college_name": "NIMS University",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 25,80,000",
+    "placement": "₹ 6,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "431",
+    "college_name": "Government Medical College - [GMC]",
+    "location": "Bharatpur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "432",
+    "college_name": "Government Medical College",
+    "location": "Barmer, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,09,362",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "433",
+    "college_name": "Government Medical College - [GMC]",
+    "location": "Dungarpur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "434",
+    "college_name": "Taxila Business School - [TBS]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 9,60,000",
+    "placement": "₹ 25,80,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "435",
+    "college_name": "Government Medical College",
+    "location": "Bhilwara, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 70,340",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "436",
+    "college_name": "Mody University",
+    "location": "Sikar, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,29,000",
+    "placement": "₹ 32,88,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "437",
+    "college_name": "Sangam University, School of Management Studies",
+    "location": "Bhilwara, Rajasthan",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,38,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "438",
+    "college_name": "Government Medical College",
+    "location": "Churu, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "439",
+    "college_name": "Government Medical College",
+    "location": "Sriganganagar, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "440",
+    "college_name": "Government Medical College",
+    "location": "Alwar, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "441",
+    "college_name": "Government Medical College",
+    "location": "Alwar, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "442",
+    "college_name": "Government Medical College",
+    "location": "Chittorgarh, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "443",
+    "college_name": "UNIRAJ- University of Rajasthan",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BA",
+    "fees": "₹ 2,320",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "444",
+    "college_name": "Government Medical College",
+    "location": "Dausa, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "445",
+    "college_name": "Government Medical College",
+    "location": "Sirohi, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "446",
+    "college_name": "Government Medical College",
+    "location": "Bundi, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "447",
+    "college_name": "VGU Faculty of Engineering & Technology - [FENT]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,10,000",
+    "placement": "₹ 54,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "448",
+    "college_name": "Government Medical College",
+    "location": "Dholpur, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "449",
+    "college_name": "Government Medical College",
+    "location": "Karauli, Rajasthan",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,25,246",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "450",
+    "college_name": "Ananta Institute of Hotel Management & Allied studies - [AIHMAS]",
+    "location": "Jaipur, Rajasthan",
+    "best_suit_for": "BHM",
+    "fees": "₹ 4,40,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "451",
+    "college_name": "IIT Patna - Indian Institute of Technology - [IITP]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,73,250",
+    "placement": "₹ 1,62,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "452",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 5,856",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "453",
+    "college_name": "National Institute of Technology - [NITP]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,88,500",
+    "placement": "₹ 41,37,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "454",
+    "college_name": "Indian Institute of Management - [IIMBG]",
+    "location": "Gaya, Bihar",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 8,00,000",
+    "placement": "₹ 22,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "455",
+    "college_name": "Indian Institute of Information Technology - [IIIT]",
+    "location": "Bhagalpur, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,94,738",
+    "placement": "₹ 83,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "456",
+    "college_name": "Patna Medical College & Hospital - [PMCH]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 9,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "457",
+    "college_name": "Ambedkar Institute of Higher Education - [AIHE]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "B.Sc (Nursing)",
+    "fees": "₹ 7,00,575",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "458",
+    "college_name": "Vardhman Institute of Medical Sciences - [VIMS]",
+    "location": "Nalanda, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 29,800",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "459",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Hajipur, Bihar",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,30,725",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "460",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Gaya, Bihar",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,22,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "461",
+    "college_name": "Indira Gandhi Institute of Medical Sciences - [IGIMS]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 70,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "462",
+    "college_name": "Birla Institute of Technology - [BIT]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 4,34,000",
+    "placement": "₹ 34,40,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "463",
+    "college_name": "Nalanda Medical College - [NMCH]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 27,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "464",
+    "college_name": "Muzaffarpur Institute of Technology - [MIT]",
+    "location": "Muzaffarpur, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 5,530",
+    "placement": "₹ 9,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "465",
+    "college_name": "Darbhanga Medical College",
+    "location": "Darbhanga, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,02,150",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "466",
+    "college_name": "Bhagalpur College of Engineering - [BCE]",
+    "location": "Bhagalpur, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,12,500",
+    "placement": "₹ 13,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "467",
+    "college_name": "Bakhtiyarpur College of Engineering - [BCE]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "468",
+    "college_name": "Jawaharlal Nehru Medical College - [JLNMC]",
+    "location": "Bhagalpur, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 40,800",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "469",
+    "college_name": "Shri Krishna Medical College - [SKMC]",
+    "location": "Muzaffarpur, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 49,800",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "470",
+    "college_name": "Chandragupt Institute of Management - [CIMP]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 3,85,000",
+    "placement": "₹ 16,42,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "471",
+    "college_name": "ESIC Medical College",
+    "location": "Bihta, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,11,200",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "472",
+    "college_name": "Anugrah Narayan Magadh Medical College and Hospital - [ANMMCH]",
+    "location": "Gaya, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 27,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "473",
+    "college_name": "Government Medical College - [GMC]",
+    "location": "Bettiah, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 58,500",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "474",
+    "college_name": "Amity University",
+    "location": "Patna, Bihar",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 1,16,000",
+    "placement": "₹ 50,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "475",
+    "college_name": "Government Medical College and Hospital , Purnea",
+    "location": "Purnea, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "476",
+    "college_name": "Gaya College of Engineering",
+    "location": "Gaya, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 70,630",
+    "placement": "₹ 7,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "477",
+    "college_name": "Darbhanga College of Engineering - [DCE]",
+    "location": "Darbhanga, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 29,130",
+    "placement": "₹ 17,39,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "478",
+    "college_name": "Aryabhatta Knowledge University - [AKU]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 1,00,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "479",
+    "college_name": "Gopal Narayan Singh University - [GNSU]",
+    "location": "Sasaram, Bihar",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 1,19,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "480",
+    "college_name": "Mata Gujri University",
+    "location": "Kishanganj, Bihar",
+    "best_suit_for": "B.Pharm",
+    "fees": "₹ 1,21,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "481",
+    "college_name": "Katihar Medical College - [KMC]",
+    "location": "Katihar, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 14,05,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "482",
+    "college_name": "Narayan Medical College & Hospital - [NMCH]",
+    "location": "Rohtas, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 14,75,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "483",
+    "college_name": "Mata Gujri Memorial Medical College & Lions Seva Kendra Hospital",
+    "location": "Kishanganj, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 11,13,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "484",
+    "college_name": "RDJM Medical College & Hospital",
+    "location": "Muzaffarpur, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 13,90,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "485",
+    "college_name": "Madhubani Medical College -[MMC]",
+    "location": "Madhubani, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 54,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "486",
+    "college_name": "Netaji Subhas Medical College & Hospital - [NSMCH]",
+    "location": "Patna, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 19,46,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "487",
+    "college_name": "Shree Narayan Medical Institute & Hospital",
+    "location": "Saharsa, Bihar",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 16,00,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "488",
+    "college_name": "National Institute of Fashion Technology - [NIFT] Patna",
+    "location": "Patna, Bihar",
+    "best_suit_for": "B.Des",
+    "fees": "₹ 3,47,900",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "489",
+    "college_name": "Jai Prakash University",
+    "location": "Chapra, Bihar",
+    "best_suit_for": "MA",
+    "fees": "₹ 3,846",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "490",
+    "college_name": "Patna Law College",
+    "location": "Patna, Bihar",
+    "best_suit_for": "LLB",
+    "fees": "₹ 2,220",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "491",
+    "college_name": "Marwari College",
+    "location": "Bhagalpur, Bihar",
+    "best_suit_for": "BA",
+    "fees": "₹ 1,196",
+    "placement": "₹ 7,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "492",
+    "college_name": "Langat Singh College - [LS]",
+    "location": "Muzaffarpur, Bihar",
+    "best_suit_for": "BA",
+    "fees": "₹ 855",
+    "placement": "₹ 5,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "493",
+    "college_name": "Katihar Engineering College - [KEC]",
+    "location": "Katihar, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "494",
+    "college_name": "Nalanda College of Engineering - [NCE]",
+    "location": "Chandi, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 13,920",
+    "placement": "₹ 8,60,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "495",
+    "college_name": "Purnea College of Engineering - [PCE]",
+    "location": "Purnea, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "496",
+    "college_name": "Motihari College of Engineering - [MCE]",
+    "location": "Motihari, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,05,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "497",
+    "college_name": "H.D. Jain College",
+    "location": "Arrah, Bihar",
+    "best_suit_for": "BA",
+    "fees": "₹ 1,800",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "498",
+    "college_name": "Sityog Institute of Technology",
+    "location": "Aurangabad, Bihar",
+    "best_suit_for": "Polytechnic",
+    "fees": "₹ 1,20,000",
+    "placement": "₹ 5,70,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "499",
+    "college_name": "Government College of Engineering - [GEC]",
+    "location": "Bhojpur, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "500",
+    "college_name": "Sitamarhi Institute of Technology - [SIT]",
+    "location": "Sitamarhi, Bihar",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "501",
+    "college_name": "IIMA - Indian Institute of Management",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 27,50,000",
+    "placement": "₹ 76,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "502",
+    "college_name": "B. J. Medical College - [BJMC]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "503",
+    "college_name": "IIT Gandhinagar - Indian Institute of Technology - [IITG]",
+    "location": "Gandhinagar, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,29,426",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "504",
+    "college_name": "Gujarat National Law University - [GNLU]",
+    "location": "Silvassa, Gujarat",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 2,16,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "505",
+    "college_name": "Nirma University",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,45,800",
+    "placement": "₹ 88,20,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "506",
+    "college_name": "MICA Ahmedabad",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "Graduate Certificate in Management",
+    "fees": "₹ 11,00,000",
+    "placement": "₹ 40,91,500",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "507",
+    "college_name": "Sardar Vallabhbhai National Institute of Technology - [SVNIT]",
+    "location": "Surat, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,85,000",
+    "placement": "₹ 62,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "508",
+    "college_name": "Institute of Law, Nirma University - [ILNU]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 4,00,700",
+    "placement": "₹ 19,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "509",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Rajkot, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 25,856",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "510",
+    "college_name": "Medical College Baroda",
+    "location": "Vadodara, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 29,325",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "511",
+    "college_name": "Institute of Rural Management - [IRMA]",
+    "location": "Anand, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 10,74,508",
+    "placement": "₹ 31,16,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "512",
+    "college_name": "Ganpat University - [GUNI]",
+    "location": "Mehsana, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,40,000",
+    "placement": "₹ 12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "513",
+    "college_name": "Government Medical College",
+    "location": "Surat, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "514",
+    "college_name": "Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT]",
+    "location": "Gandhinagar, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 3,87,000",
+    "placement": "₹ 53,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "515",
+    "college_name": "Parul University",
+    "location": "Vadodara, Gujarat",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 1,02,300",
+    "placement": "₹ 45,98,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "516",
+    "college_name": "Indian Institute of Information Technology - [IIIT]",
+    "location": "Surat, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,12,500",
+    "placement": "₹ 74,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "517",
+    "college_name": "Indian Institute of Information Technology Vadodara - [IIIT-V]",
+    "location": "Gandhinagar, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,90,220",
+    "placement": "₹ 56,30,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "518",
+    "college_name": "Institute of Management, Nirma University",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 6,66,000",
+    "placement": "₹ 70,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "519",
+    "college_name": "P.P. Savani University",
+    "location": "Surat, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 97,650",
+    "placement": "₹ 78,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "520",
+    "college_name": "Pandit Deendayal Upadhyay Medical College - [PDUMC]",
+    "location": "Rajkot, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 25,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "521",
+    "college_name": "Hargovandas Lakhmichand College of Commerce (H L College of Commerce)",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "B.Com",
+    "fees": "₹ 40,000",
+    "placement": "₹ 30,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "522",
+    "college_name": "Institute of Architecture & Planning, Nirma University",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "B.Arch",
+    "fees": "₹ 1,52,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "523",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BHM",
+    "fees": "₹ 4,00,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "524",
+    "college_name": "Institute of Technology, Nirma University",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,72,200",
+    "placement": "₹ 52,69,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "525",
+    "college_name": "Veer Narmad South Gujarat University - [VNSGU]",
+    "location": "Surat, Gujarat",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 34,435",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "526",
+    "college_name": "Sardar Patel University - [SPU]",
+    "location": "Vallabh Vidyanagar, Gujarat",
+    "best_suit_for": "M.Sc",
+    "fees": "₹ 89,907",
+    "placement": "₹ 6,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "527",
+    "college_name": "Hemchandracharya North Gujarat University - [HNGU]",
+    "location": "Patan, Gujarat",
+    "best_suit_for": "MA",
+    "fees": "₹ 26,130",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "528",
+    "college_name": "Saurashtra University",
+    "location": "Rajkot, Gujarat",
+    "best_suit_for": "B.Sc",
+    "fees": "Not Available",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "529",
+    "college_name": "Indus University",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,10,600",
+    "placement": "₹ 30,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "530",
+    "college_name": "Government Medical College",
+    "location": "Bhavnagar, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 41,150",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "531",
+    "college_name": "Narayana Business School - [NBS]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 9,85,000",
+    "placement": "₹ 20,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "532",
+    "college_name": "Namo Medical Education & Research Institute",
+    "location": "Silvassa, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 58,100",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "533",
+    "college_name": "Dharmsinh Desai University - [DDU]",
+    "location": "Nadiad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,85,000",
+    "placement": "₹ 25,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "534",
+    "college_name": "Sarvajanik University",
+    "location": "Surat, Gujarat",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 49,750",
+    "placement": "₹ 23,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "535",
+    "college_name": "Charutar Vidya Mandal University - [CVM University] Anand",
+    "location": "Vallabh Vidyanagar, Gujarat",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 1,86,000",
+    "placement": "₹ 15,40,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "536",
+    "college_name": "LJ University - [ LJU]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,03,000",
+    "placement": "₹ 15,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "537",
+    "college_name": "Faculty of Management Studies, The Maharaja Sayajirao University of Baroda",
+    "location": "Vadodara, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 45,100",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "538",
+    "college_name": "Maharaja Sayajirao University of Baroda - [MSU]",
+    "location": "Vadodara, Gujarat",
+    "best_suit_for": "MSW",
+    "fees": "₹ 10,900",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "539",
+    "college_name": "L.D. College of Engineering - [LDCE]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,280",
+    "placement": "₹ 10,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "540",
+    "college_name": "Pandit Deendayal Energy University, School of Technology - [PDEU SOT]",
+    "location": "Gandhinagar, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,53,000",
+    "placement": "₹ 42,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "541",
+    "college_name": "Institute of Infrastructure Technology Research and Management - [IITRAM]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,28,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "542",
+    "college_name": "Vishwakarma Government Engineering College - [VGEC]",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,500",
+    "placement": "₹ 23,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "543",
+    "college_name": "Faculty of Technology and Engineering, Maharaja Sayajirao University of Baroda",
+    "location": "Vadodara, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,05,000",
+    "placement": "₹ 11,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "544",
+    "college_name": "B K School of Business Management",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 20,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "545",
+    "college_name": "Indubhai Parekh School of Architecture - [IPSA]",
+    "location": "Rajkot, Gujarat",
+    "best_suit_for": "B.Arch",
+    "fees": "₹ 1,29,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "546",
+    "college_name": "SAL Education Campus",
+    "location": "Ahmedabad, Gujarat",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 64,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "547",
+    "college_name": "Sumandeep Vidyapeeth",
+    "location": "Vadodara, Gujarat",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 23,00,000",
+    "placement": "₹ 10,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "548",
+    "college_name": "Shri Govind Guru University - [SGGU]",
+    "location": "Godhra, Gujarat",
+    "best_suit_for": "BA",
+    "fees": "₹ 1,465",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "549",
+    "college_name": "R.H. Patel Institute of Management",
+    "location": "Kheda, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 56,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "550",
+    "college_name": "GIDC Rajju Shroff Rofel Institute of Management Studies",
+    "location": "Vapi, Gujarat",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 92,200",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "551",
+    "college_name": "All India Institute of Medical Sciences - [AIIMS]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 4,788",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "552",
+    "college_name": "IIMI - Indian Institute of Management",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 5,50,679",
+    "placement": "₹ 70,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "553",
+    "college_name": "IIT Indore - Indian Institute of Technology - [IITI]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "ME/M.Tech",
+    "fees": "₹ 1,14,600",
+    "placement": "₹ 68,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "554",
+    "college_name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management - [ABVIIITM]",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,16,250",
+    "placement": "₹ 65,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "555",
+    "college_name": "Maulana Azad National Institute of Technology - [MANIT]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,55,400",
+    "placement": "₹ 82,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "556",
+    "college_name": "IPS Academy",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,26,700",
+    "placement": "₹ 4,00,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "557",
+    "college_name": "Indian Institute of Information Technology Design and Manufacturing - [IIITDM]",
+    "location": "Jabalpur, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,74,000",
+    "placement": "₹ 1,10,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "558",
+    "college_name": "Indian Institute of Information Technology -[IIIT]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,68,254",
+    "placement": "₹ 85,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "559",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,25,915",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "560",
+    "college_name": "Dharmashastra National Law University - [MPDNLU]",
+    "location": "Jabalpur, Madhya Pradesh",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 2,61,653",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "561",
+    "college_name": "Mahatma Gandhi Memorial Medical College - [MGMMC]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,18,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "562",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BHM",
+    "fees": "₹ 1,58,075",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "563",
+    "college_name": "Indian Institute of Forest Management - [IIFM]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 7,38,000",
+    "placement": "₹ 20,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "564",
+    "college_name": "Sophia Homeopathic Medical College and Research Center",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "BHMS",
+    "fees": "₹ 3,15,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "565",
+    "college_name": "Gandhi Medical College",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,16,255",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "566",
+    "college_name": "St Aloysius College",
+    "location": "Jabalpur, Madhya Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 24,545",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "567",
+    "college_name": "Dr. Hari singh Gour University",
+    "location": "Sagar, Madhya Pradesh",
+    "best_suit_for": "BA",
+    "fees": "₹ 8,160",
+    "placement": "₹ 4,25,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "568",
+    "college_name": "Shri Govindram Seksaria Institute of Technology and Science- [SGSITS]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,06,050",
+    "placement": "₹ 72,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "569",
+    "college_name": "Sri Aurobindo Institute of Medical Sciences - [SAIMS]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 16,25,700",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "570",
+    "college_name": "Prestige Institute of Management and Research - [PIMR]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 1,59,000",
+    "placement": "₹ 32,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "571",
+    "college_name": "Gajra Raja Medical College - [GRMC]",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,21,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "572",
+    "college_name": "Institute of Engineering and Technology, Devi Ahilya University - [IET -DAVV]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,05,950",
+    "placement": "₹ 57,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "573",
+    "college_name": "Jabalpur Engineering College - [JEC]",
+    "location": "Jabalpur, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 14,369",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "574",
+    "college_name": "Netaji Subhash Chandra Bose Medical College - [NSCBMC]",
+    "location": "Jabalpur, Madhya Pradesh",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 72,600",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "575",
+    "college_name": "Jaipuria Institute of Management",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 12,75,000",
+    "placement": "₹ 36,64,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "576",
+    "college_name": "Aisect College of Professional Studies",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "B.Com",
+    "fees": "₹ 15,000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "577",
+    "college_name": "VIT Bhopal University",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 2,01,000",
+    "placement": "₹ 59,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "578",
+    "college_name": "LNCT University - [LNCTU]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 60,000",
+    "placement": "₹ 1,12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "579",
+    "college_name": "Madhav Institute of Technology and Science - [MITS]",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 1,86,000",
+    "placement": "₹ 25,56,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "580",
+    "college_name": "ITM University, School of Management",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 2,05,000",
+    "placement": "₹ 45,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "581",
+    "college_name": "Bundelkhand Medical College",
+    "location": "Sagar, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,14,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "582",
+    "college_name": "University Institute of Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya - [UIT- RGPV]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 24,920",
+    "placement": "₹ 54,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "583",
+    "college_name": "Jagran Lakecity University - [JLU]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 1,80,000",
+    "placement": "₹ 12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "584",
+    "college_name": "Dr. LAXMINARAYAN PANDEY GOVT. MEDICAL COLLEGE, RATLAM",
+    "location": "Ratlam, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,15,350",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "585",
+    "college_name": "Shrimant Rajmata Vijayaraje Scindia Medical College Shivpuri",
+    "location": "Shivpuri, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,30,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "586",
+    "college_name": "Career College",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 20,500",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "587",
+    "college_name": "Awadhesh Pratap Singh University - [APSU]",
+    "location": "Rewa, Madhya Pradesh",
+    "best_suit_for": "MA",
+    "fees": "₹ 8,234",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "588",
+    "college_name": "Government Medical College",
+    "location": "Datia, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,14,000",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "589",
+    "college_name": "NANDKUMAR SINGH CHOUHAN GOVERNMENT MEDICAL COLLEGE",
+    "location": "Khandwa, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,26,950",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "590",
+    "college_name": "Rajiv Gandhi Proudyogiki Vishwavidyalaya - [RGPV]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 44,500",
+    "placement": "₹ 18,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "591",
+    "college_name": "NANDKUMAR SINGH CHOUHAN GOVERNMENT MEDICAL COLLEGE",
+    "location": "Khandwa, Madhya Pradesh",
+    "best_suit_for": "MBBS",
+    "fees": "₹ 1,26,950",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "592",
+    "college_name": "Rajiv Gandhi Proudyogiki Vishwavidyalaya - [RGPV]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 44,500",
+    "placement": "₹ 18,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "593",
+    "college_name": "Rewa Engineering College - [REC]",
+    "location": "Rewa, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 49,800",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "594",
+    "college_name": "Dr. A. P. J. Abdul Kalam University",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "M.Phil/Ph.D in Arts",
+    "fees": "₹ 2,83,400",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "595",
+    "college_name": "Birsa Munda Government Medical College",
+    "location": "Shahdol, Madhya Pradesh",
+    "best_suit_for": "Bachelor of Physiotherapy(BPT)",
+    "fees": "₹ 85,020",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "596",
+    "college_name": "Jiwaji University - [JU]",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "B.Sc",
+    "fees": "₹ 23,320",
+    "placement": "₹ 5,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "597",
+    "college_name": "Lakshmi Narain College of Technology - [LNCT]",
+    "location": "Bhopal, Madhya Pradesh",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "₹ 48,600",
+    "placement": "₹ 12,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "598",
+    "college_name": "Prestige Institute of Management & Research - [PIMRG]",
+    "location": "Gwalior, Madhya Pradesh",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "₹ 27,000",
+    "placement": "₹ 15,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "599",
+    "college_name": "Acropolis Faculty of Management and Research - [AFMR]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "₹ 55,000",
+    "placement": "₹ 10,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "600",
+    "college_name": "Shri Vaishnav Institute of Management and Science - [SVIMS]",
+    "location": "Indore, Madhya Pradesh",
+    "best_suit_for": "BBA/BMS",
+    "fees": "₹ 61,500",
+    "placement": "₹ 9,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "601",
+    "college_name": "National Law School of India University - [NLSIU]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "LLB",
+    "fees": "454500",
+    "placement": "18,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "602",
+    "college_name": "Indian Institute of Management - IIM Bangalore",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "MBA/PGDM",
+    "fees": "2630000",
+    "placement": "1,15,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "603",
+    "college_name": "Institute of Hotel Management - [IHM]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "BHM",
+    "fees": "167365",
+    "placement": "8,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "604",
+    "college_name": "National Institute of Mental Health and Neuro Sciences - [NIMHANS]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "M.Ch",
+    "fees": "91150",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "605",
+    "college_name": "Indian Institute of Science - [IISc]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "220800",
+    "placement": "85,00,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "606",
+    "college_name": "St. Joseph's College of Commerce - [SJCC]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "B.Com",
+    "fees": "136000",
+    "placement": "30,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "607",
+    "college_name": "International Institute of Information Technology - [IIIT-B]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "BE/B.Tech",
+    "fees": "460000",
+    "placement": "65,00,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "608",
+    "college_name": "Faculty of Hospitality Management and Catering Technology - [FHMCT], M. S. Ramaiah University of Applied Sciences",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "BHM",
+    "fees": "179000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "609",
+    "college_name": "St Joseph's University",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "B.Sc",
+    "fees": "20000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "610",
+    "college_name": "Christ University Bangalore",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "B.Sc",
+    "fees": "154000",
+    "placement": "15,75,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "611",
+    "college_name": "Bangalore Medical College and Research Institute - [BMCRI]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "MBBS",
+    "fees": "75300",
+    "placement": "Not Available",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "612",
+    "college_name": "Indian Institute of Science, Department of Management Studies - [DMSIISC]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "MMS",
+    "fees": "266500",
+    "placement": "37,50,000",
+    "type": "Government",
+    "rating": 4
+  },
+  {
+    "id": "613",
+    "college_name": "RV College of Architecture - [RVCA]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "B.Arch",
+    "fees": "113060",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "614",
+    "college_name": "BMS School of Architecture - [BMSSA]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "B.Arch",
+    "fees": "301100",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "615",
+    "college_name": "School of Law, Christ University - [SLCU]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "BA/BBA LLB",
+    "fees": "322000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "616",
+    "college_name": "Mount Carmel College - [MCC]",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "B.Sc",
+    "fees": "119400",
+    "placement": "21,50,000",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "617",
+    "college_name": "KLE Society's Institute of Hotel Management and Catering Technology",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "BHM",
+    "fees": "110000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  },
+  {
+    "id": "618",
+    "college_name": "KLE Society's Law College",
+    "location": "Bangalore, Karnataka",
+    "best_suit_for": "LLB",
+    "fees": "120000",
+    "placement": "Not Available",
+    "type": "Private",
+    "rating": 4
+  }
+]
